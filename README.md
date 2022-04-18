@@ -1,4 +1,4 @@
-# chapter-project-repository-template
+# Chapter-Project-Repository-Template
 Use this Repository as a template for creating Local Chapter Repositories
 
 
